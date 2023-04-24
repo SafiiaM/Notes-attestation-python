@@ -6,26 +6,26 @@ class View(object):
     @staticmethod
     def show_number_point_list(notes):
         for note in notes:
-            print(Fore.LILA + '________________________________________________'
+            print(Fore.YELLOW + '________________________________________________'
                   + Style.RESET_ALL)
             print(note)
-            print(Fore.LILA + '________________________________________________'
+            print(Fore.YELLOW + '________________________________________________'
                   + Style.RESET_ALL)
 
     @staticmethod
     def show_note(note):
-        print(Fore.LILA + '________________________________________________'
+        print(Fore.YELLOW + '________________________________________________'
               + Style.RESET_ALL)
         print(note)
-        print(Fore.LILA + '________________________________________________'
+        print(Fore.YELLOW + '________________________________________________'
               + Style.RESET_ALL)
 
     @staticmethod
     def show_empty_list_message():
-        print(Fore.LILA + '________________________________________________'
+        print(Fore.YELLOW + '________________________________________________'
               + Style.RESET_ALL)
         print('List of the notes is empty!')
-        print(Fore.LILA + '________________________________________________'
+        print(Fore.YELLOW + '________________________________________________'
               + Style.RESET_ALL)
 
     @staticmethod
@@ -45,16 +45,16 @@ class View(object):
 
     @staticmethod
     def display_note_stored():
-        print(Fore.LILA + '________________________________________________' + Style.RESET_ALL)
+        print(Fore.YELLOW + '________________________________________________' + Style.RESET_ALL)
         print(Fore.GREEN + 'Note is added successfully!' + Style.RESET_ALL)
-        print(Fore.LILA + '________________________________________________' + Style.RESET_ALL)
+        print(Fore.YELLOW + '________________________________________________' + Style.RESET_ALL)
 
     @staticmethod
     def display_note_updated(note_id):
-        print(Fore.LILA + '________________________________________________' + Style.RESET_ALL)
+        print(Fore.YELLOW + '________________________________________________' + Style.RESET_ALL)
         print(Fore.GREEN + 'Note with id:{} is updated successfully!'
               .format(note_id) + Style.RESET_ALL)
-        print(Fore.LILA + '________________________________________________' + Style.RESET_ALL)
+        print(Fore.YELLOW + '________________________________________________' + Style.RESET_ALL)
 
     @staticmethod
     def display_note_deletion(note_id):
