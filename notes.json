@@ -1,0 +1,50 @@
+[
+    {
+        "id": 4,
+        "date": "2023-04-24 17:02:30.741829",
+        "title": "Long way",
+        "text": "We always return to the same person - ourselves "
+    },
+    {
+        "id": 6,
+        "date": "2023-04-24 17:08:32.787824",
+        "title": "My first Python Note",
+        "text": "\"WoW !!! Super !!! I didn't expect this app to work! \""
+    },
+    {
+        "id": 1,
+        "date": "2023-04-24 17:20:11.755745",
+        "title": "Hello",
+        "text": "Hello notes"
+    },
+    {
+        "id": 2,
+        "date": "2023-04-24 17:20:36.760975",
+        "title": "note's changing",
+        "text": "New colours to the console"
+    },
+    {
+        "id": 7,
+        "date": "2023-04-24 17:25:39.737733",
+        "title": "add",
+        "text": "take away"
+    },
+    {
+        "id": 8,
+        "date": "2023-04-24 17:30:46.720596",
+        "title": "Captain",
+        "text": "Captain Jack "
+    },
+    {
+        "id": 9,
+        "date": "2023-04-24 17:43:30.789289",
+        "title": "Germany",
+        "text": "The Capital of Germany is Berlin"
+    },
+    {
+        "id": 5,
+        "date": "2023-04-24 17:45:33.107090",
+        "title": "New possibilities",
+        "text": "it works"
+    }
+]
